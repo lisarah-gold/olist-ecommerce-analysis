@@ -1,0 +1,25 @@
+#python virtual environment
+.venv/
+
+
+#Python 自己留下的“临时加速文件”
+__pycache__/
+#Python 自动生成的一类缓存文件
+*.pyc
+
+#macOS files
+#macOS 自动生成的隐藏文件。
+.DS_Store
+
+#environment variables and secrets
+#用来保存敏感配置的文件
+.env 
+
+#raw and processed data
+# 下载 Olist 原始 CSV 数据的地方
+data/raw/
+# 用 Python 清洗数据后产生的中间文件位置
+data/processed/
+
+# Jupyter Notebook 自动生成的备份文件夹
+.ipynb_checkpoints/

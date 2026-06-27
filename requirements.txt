@@ -1,0 +1,10 @@
+# Direct Python dependencies for this project
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+sqlalchemy
+pymysql
+python-dotenv
+openpyxl
