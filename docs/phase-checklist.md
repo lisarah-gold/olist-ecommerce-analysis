@@ -82,9 +82,9 @@
 - [x] 已用真实结果更新 `docs/data-dictionary.md`。
 - [x] 已创建并完成 `docs/data-quality-log.md`。
 - [x] 已更新 `docs/learning-log.md`。
-- [ ] 已完成表关系说明。
+- [x] 已完成表关系说明。
 - [x] 已完成 Phase 1 Git 提交。
 
 ## Phase 1 验收结果
-- [ ] Phase 1 验收通过。
-- [ ] 可以进入 Phase 2。
+- [x] Phase 1 验收通过。
+- [x] 可以进入 Phase 2。
