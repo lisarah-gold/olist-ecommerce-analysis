@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="Xs0_3bsG6_6x66IVTHxS">
-    <mxGraphModel dx="768" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="ORDERS" vertex="1">
-          <mxGeometry height="198" width="200" x="493" y="-775" as="geometry">
+          <mxGeometry height="198" width="200" x="413" y="-744" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-11" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="ORDERS_ITEM" vertex="1">
-          <mxGeometry height="126" width="146" x="746" y="-733.09" as="geometry">
+          <mxGeometry height="126" width="146" x="666" y="-702.09" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -194,7 +194,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-22" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="PRODUCTS" vertex="1">
-          <mxGeometry height="102" width="146" x="972" y="-721.09" as="geometry">
+          <mxGeometry height="102" width="146" x="892" y="-690.09" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -241,7 +241,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-35" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="SELLER" vertex="1">
-          <mxGeometry height="126" width="174" x="732" y="-521" as="geometry">
+          <mxGeometry height="126" width="174" x="652" y="-490" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -298,7 +298,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-47" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="ORDERS_PAYMENT" vertex="1">
-          <mxGeometry height="126" width="146" x="520" y="-341" as="geometry">
+          <mxGeometry height="126" width="146" x="440" y="-310" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -356,11 +356,11 @@
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-151" edge="1" parent="1" source="y47m_dw8dwa8I4PK6p_E-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="y47m_dw8dwa8I4PK6p_E-123" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="-670.0900000000001" as="targetPoint" />
+            <mxPoint x="100" y="-639.0900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-74" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="CUSTOMER" vertex="1">
-          <mxGeometry height="150" width="230" x="130" y="-751" as="geometry">
+          <mxGeometry height="150" width="230" x="50" y="-720" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -430,7 +430,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-107" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="PRODUCT_CATEGORY_TRAN" vertex="1">
-          <mxGeometry height="78" width="228" x="931" y="-401" as="geometry">
+          <mxGeometry height="78" width="228" x="851" y="-370" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -461,7 +461,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-119" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="GEOLOCATION" vertex="1">
-          <mxGeometry height="150" width="254" x="692" y="-201" as="geometry">
+          <mxGeometry height="150" width="254" x="612" y="-170" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -531,7 +531,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-59" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;fontSize=14;strokeWidth=1;container=1;collapsible=1;rounded=0;" value="ORDERS_REVIEWS" vertex="1">
-          <mxGeometry height="150" width="160" x="320" y="-341" as="geometry">
+          <mxGeometry height="150" width="160" x="240" y="-310" as="geometry">
             <mxRectangle height="30" width="90" x="240" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -601,10 +601,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="customer_id 是客户-订单关联记录ID，customer_unique_id是同一客户对应多笔订单" vertex="1">
-          <mxGeometry height="30" width="60" x="30" y="-661" as="geometry" />
+          <mxGeometry height="30" width="60" x="-50" y="-630" as="geometry" />
         </mxCell>
         <mxCell id="y47m_dw8dwa8I4PK6p_E-195" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="评价记录的唯一性需要后续 SQL 阶段再决定处理规则。" vertex="1">
-          <mxGeometry height="30" width="150" x="320" y="-401" as="geometry" />
+          <mxGeometry height="30" width="150" x="240" y="-370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
