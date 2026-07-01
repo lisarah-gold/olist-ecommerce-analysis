@@ -45,3 +45,25 @@
 * 让 Codex 在真实的本地项目目录中验收 Phase 0。
 * 根据 Codex 的终端检查结果更新 `phase-checklist.md`。
 * 只有在所有必需项目都验证通过后，才正式进入 Phase 1：下载 Olist 数据并理解数据表结构。
+
+## 2026-07-01 — Phase 1：Data Understanding
+
+### 我完成的内容
+- 已将 9 张 Olist 原始 CSV 放入 `data/raw/`。
+- 已运行 `notebooks/01_data_understanding.ipynb`。
+- 已读取全部 9 张表，并检查表规模、字段、缺失值、候选唯一标识、日期范围、订单状态和主要表关系。
+- 已确认订单表、订单商品表、支付表和评价表的分析粒度不同。
+- 已识别一单多商品、一单多支付记录，以及评价记录可能重复等风险。
+
+### 我理解到的关键知识
+- `orders` 是订单粒度；`order_items` 是订单商品明细粒度。
+- 订单连接 `order_items` 或 `order_payments` 后，不能直接统计普通订单行数，否则会重复计算。
+- 客户复购必须使用 `customer_unique_id`，不能使用 `customer_id`。
+- 配送天数和延迟分析只能基于已送达且实际送达时间完整的订单。
+- 没有评价不代表客户满意；评分分析只能使用有效评价记录。
+
+### 下一步
+- 创建 `docs/data-quality-log.md`。
+- 用 Notebook 的真实结果更新 `docs/data-dictionary.md`。
+- 更新 Phase 1 验收清单。
+- 完成 Git 提交后，再进入 Phase 2：MySQL 建库、CSV 导入与验证。
