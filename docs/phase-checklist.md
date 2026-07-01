@@ -79,11 +79,11 @@
 - [x] 已确认 geolocation 邮编前缀不是唯一键。
 
 ## 三、文档产出
-- [ ] 已用真实结果更新 `docs/data-dictionary.md`。
-- [ ] 已创建并完成 `docs/data-quality-log.md`。
-- [ ] 已更新 `docs/learning-log.md`。
+- [x] 已用真实结果更新 `docs/data-dictionary.md`。
+- [x] 已创建并完成 `docs/data-quality-log.md`。
+- [x] 已更新 `docs/learning-log.md`。
 - [ ] 已完成表关系说明。
-- [ ] 已完成 Phase 1 Git 提交。
+- [x] 已完成 Phase 1 Git 提交。
 
 ## Phase 1 验收结果
 - [ ] Phase 1 验收通过。
